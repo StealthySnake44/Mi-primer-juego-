@@ -1,1 +1,7 @@
+
 print("Hola Mundo")
+
+print("-Who are the Patriots?")
+
+print("La-Li-Lu-Le-Lo")
+
